@@ -1,0 +1,72 @@
+Give me some idea on what is a Data type. What are Primitive Data types and Non-Primitive Data types. 
+Explain with some examples.
+
+What is datatypes
+Datatypes is used to define what kind of data used in variable.
+
+Types of datatypes:
+1.primitive data types
+-it can store a single value
+-immutable
+-string, Boolean, number, undefines,null, bigint,symbol
+
+2.non-primitive data types
+-it can store multiple values
+-mutable
+Class,objects, dunctions, arrays, math, date,json
+
+Primitive datatypes
+1.String
+Sequence of characters stored within double quotes/ single quotes, backticks
+Ex: var user=”Mahesh”
+    console.log(user);
+2.boolean
+Represents a true or false value.
+ex: let isLoggedIn = true;
+    console.log(isLoggedIn);
+3.number
+Integers,float,decimal,exponential etc
+ex: let age = 25;
+    console.log(age);
+4.undefined
+Variable is defined but not initialised
+ex: let a;
+    console.log(a);
+5.null
+Null is the absence of object or empty space 
+ex: let b=null;
+    console.log(b);
+
+
+Non-primitive datatypes
+1.object
+contains collection of key-value pairs
+ex: let user={
+        name:"Mahesh";
+        age:20;
+    };
+    console.log(user);
+
+2.array
+contains an ordered list of elements
+ex: let numbers=[1,2,3,4,5,6,7];
+    console.log(numbers);
+
+3.Function
+a reusable block that performs a specific task
+ex: function demo(){
+        var username="Mahesh";
+        let city="Hyd";
+        const salary=123456789;
+        console.log(username,city,salary)
+    }
+    demo();
+
+4.Date
+represents date and time
+ex: let today = new Date();
+    console.log(today);
+
+5.
+
+

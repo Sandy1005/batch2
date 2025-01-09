@@ -1,0 +1,22 @@
+functions
+
+-functons is a building block of javascript
+-function is a block of code which is used to execute specific task
+-function is a non primitive data type
+-function can be reusable
+
+syntax :- function function_name(optional parameters, a){
+//statements
+}
+function_name(arguments);
+
+types of functions
+
+1.named function:-function is having a name and invoke with same name.
+2.anonymous function:-a function doesnt have a name for it.
+                      -it cannot be executed by itself
+3.function expression:- an anoymous function body is assigned as a value to a variable  and same function will be invoked with the same variable
+4.IIFE(immediate invoke function expression) :- it can be invoked only one time
+5.Arrow function :- it concise the normal function syntax
+6.Higher order function
+7.callback function 
