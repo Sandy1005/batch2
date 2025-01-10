@@ -29,3 +29,18 @@ console.log(z(5,5));
 
 let c=(a,b)=> a+b;
 console.log(c(100,200));
+
+
+// ! higher order function & callback function
+function hof(a){    //higher order function
+    return a;
+}
+let f=hof(function(){return "callback function"});
+console.log(f());    //callback function
+
+//let y=function(){return "callback function"};
+// console.kog(y());
+
+let users=["pothu", "varun","rahul","srinu","arjun"]
+console.log(users);
+users.map(function(user){console.log(user)})

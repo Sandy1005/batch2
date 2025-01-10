@@ -12,11 +12,25 @@ function_name(arguments);
 
 types of functions
 
-1.named function:-function is having a name and invoke with same name.
-2.anonymous function:-a function doesnt have a name for it.
+1.named function:-
+function is having a name and invoke with same name.
+
+2.anonymous function:-
+a function doesnt have a name for it.
                       -it cannot be executed by itself
-3.function expression:- an anoymous function body is assigned as a value to a variable  and same function will be invoked with the same variable
-4.IIFE(immediate invoke function expression) :- it can be invoked only one time
-5.Arrow function :- it concise the normal function syntax
-6.Higher order function
-7.callback function 
+
+3.function expression:-
+an anoymous function body is assigned as a value to a variable  and same function will be invoked with the same variable
+
+4.IIFE(immediate invoke function expression) :- 
+it can be invoked only one time
+
+5.Arrow function :- 
+it concise the normal function syntax
+
+6.Higher order function:-
+higher order function is a function which accpect anothere function as an arugument
+
+7.callback function :- 
+callback function is a function which is passed as argument to another function
+
