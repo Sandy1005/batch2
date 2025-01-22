@@ -1,0 +1,60 @@
+Arrays :-
+it is a non primitive data type
+array is ussed store mutiple values within a same variable
+
+maps()
+
+
+forEach() :- it is used ti iterate the values
+             it returns "undefined".
+
+Create array of objects
+***********************
+
+
+what is the object?
+object is an entity which contains states and behaviors
+states - properties , behavior - functionality
+object is an entity to store the values in the form key and value pair.
+
+Syntax:-   let obj = {}
+ex :-  let userdetails ={
+    name: "Sam", 
+    age:23
+}
+
+Note:- javascript is mainly object based  language till 2015 (es6)
+after es6 feature they added oops concept.
+
+JSON :- 
+*******
+- JSON stands for Javascript object notation.
+- JSON is a javscript technique used to transfer the data from client to server and server to client.
+
+syntax :-  
+
+js object :-
+************
+let a = {
+        name :"value",
+        age:25
+}
+
+json object:-
+*************
+{
+        "name" :"Sam",
+        "age" :25
+}
+
+- to create json file we have to create  a file with extension called
+        "filename.json".
+
+json methods:-
+**************
+1.JSON.stringify() :-it is used to convert JS obejct into json object.
+2.JSON.parse() :- it is used to convert json object into javascript object.
+
+Asynchronous in javascript:-
+****************************
+- to perform multiple task at a time.

@@ -1,0 +1,15 @@
+1.setTimeout() :- it is web api used to perform asyn operations with certain timeouts.
+syntax :-   setTimeout(callbackfn , timeout);
+
+2.setInterval() :- it is a web api used to perform async operation at every time interval specified.
+synatx :-  setInterval(callbackfn , timeout);
+
+3.promise :- Promise is an object which represents eventual completion or failures of async operations.
+        states of promise:-
+        1.pending state
+        2.fulfilled state
+        3.rejected state
+
+4.async & await
+
+note:- javscript is by default "Synchronous(single threaded)".
