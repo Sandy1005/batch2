@@ -1,0 +1,15 @@
+DOM:-
+**** 
+DOM stands fro document object model 
+DOM is a web api used to manipulate the html content
+DOM is usedto add , remove , update th content in the html document
+
+DOM methods:-
+************
+1.document.getElementByid(""); 
+2.document.getElementByClassName("");
+3.document.getElementByTagName("");
+4.document.getElementByName("");
+5.document.querySelector("");
+6.document.querySelectorALL();
+

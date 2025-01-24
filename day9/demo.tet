@@ -11,5 +11,9 @@ synatx :-  setInterval(callbackfn , timeout);
         3.rejected state
 
 4.async & await
+async :- async keyword converts Synchronous function into asynchronous function and starts the promise
+
+await :- await keyword makes
 
 note:- javscript is by default "Synchronous(single threaded)".
+
