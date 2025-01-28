@@ -6,10 +6,17 @@ DOM is usedto add , remove , update th content in the html document
 
 DOM methods:-
 ************
-1.document.getElementByid(""); 
-2.document.getElementByClassName("");
-3.document.getElementByTagName("");
-4.document.getElementByName("");
-5.document.querySelector("");
-6.document.querySelectorALL();
+1.document.getElementById("demo"):- it is used to select html element based on "id attribute" value.
+                              - with id attribute we can select only one element(unique element).
 
+2.document.getElementsByClassName("test"):-it is used to select html element based on "class attribute" value.
+                                      - with class attribute we can select multiple elements.
+
+3.document.getElementsByTagName(""):- it is used to select html elements based on their tag names.
+
+4.document.getelementsByName(""):- it is used to select the html elements based on "name attribute".
+
+
+- below methods used to select html elements based on "css selectors".
+5.document.querySelector("#id"):- this method is used to select only one element.
+6.document.querySelectorAll(".class"):- this method is used to select multiple elements.
