@@ -1,0 +1,6 @@
+Assessment-1
+************
+
+Take array of object where each object cantains emp id, emp name, emp company, emp salary, emp addresswhere emp address further contains an object which in clude 2 proporeties emp city, area.
+display all this empolyee data on the ui througth javascript
+print is all data in the UI in the form of table
