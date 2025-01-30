@@ -1,0 +1,1 @@
+create a signup form that contains Username(!empty), Email(@, !empty), Password(should be 6) nad comfirm Password(same,!empty), once you click on submit button a alert popup massage should be popped up on the screen "form is submitted successfully" if and only if all the vaildations are correct.
